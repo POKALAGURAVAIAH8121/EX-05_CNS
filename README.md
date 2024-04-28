@@ -95,7 +95,7 @@ Step 3:
 
 When the program completes its scan, select any program or file listed in red. Right-click it 
 and select "Delete." 
-If the red item is a service, it may be protected. Right-click the service and select "Disable." 
+If the red item is a service, it may be protected. Right-click the service and select "Disable."  
 Reboot your computer and run the scan again, this time selecting "Delete" when that service 
 is detected. 
 When your computer is free of Rootkits, close the program and restart your  PC. 
